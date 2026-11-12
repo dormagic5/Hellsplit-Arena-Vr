@@ -205,4 +205,4 @@ This repository serves as the official landing page for Hellsplit: Arena VR. The
 **Get the most recent version of Hellsplit: Arena VR today!**
 
 ---
-**Last updated:** 2026-11-12 09:34:36 UTC
+**Last updated:** 2026-11-12 18:02:08 UTC
